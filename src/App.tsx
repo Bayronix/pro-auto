@@ -1,5 +1,11 @@
+import NavbarMenu from "./components/NavbarMenu/NavbarMenu";
+
 function App() {
-  return <div>123</div>;
+  return (
+    <div>
+      <NavbarMenu />
+    </div>
+  );
 }
 
 export default App;

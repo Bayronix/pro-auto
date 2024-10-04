@@ -1,0 +1,18 @@
+.navBarContainer {
+  background-color: black;
+  min-height: 100px;
+}
+
+.navbarBrand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navLink {
+  margin-left: 1rem;
+  color: #fff;
+}
+
+.navLinkHover:hover {
+  color: #0d6efd;
+}
